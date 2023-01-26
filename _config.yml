@@ -3,3 +3,12 @@ description: Mechanical Engineer and ASQ Certified Quality Technician
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+url: https://sunildahal997.com.np
+email: sunildahal997@gmail.com
+author: Sunil Dahal
+paginate: 10
+navigation:
+  - title: Home
+    url: /
+   - title: Projects
+    url: /projects
