@@ -12,3 +12,6 @@ navigation:
     url: /
    - title: Projects
     url: /projects
+   -title: Miscellaneous
+   url: /miscellaneous
+   
